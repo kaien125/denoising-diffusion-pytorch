@@ -1,5 +1,8 @@
 # Generation results
-results/
+results*/
+
+data*/
+data_dog/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -112,6 +115,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.diffusion
 
 # Spyder project settings
 .spyderproject
